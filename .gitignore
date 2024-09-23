@@ -1,0 +1,12 @@
+*.bin
+*.ppm
+*.bag
+*.pyc
+*.ini
+.idea/
+.vs/
+*.json
+
+/build
+/devel
+/logs
